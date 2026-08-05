@@ -1,5 +1,9 @@
 import math
 
-radius = 1
-area = math.pi * (radius**2)
+x = input("radius = ")
+x = int(x)
+
+area = math.pi * (x**2)
 print('Area', area)
+
+#Gives the area of a circle of a radius 4
