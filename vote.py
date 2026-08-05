@@ -1,3 +1,6 @@
+# Eligibility for voting
+
+
 age = input("What is your age: ")
 age = int(age)
 
