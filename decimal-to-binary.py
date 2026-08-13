@@ -17,8 +17,8 @@ def DecimalToBinary(x):
         remainder = x % 2
         result = str(remainder) + result
      
-    #Divide x by 2
-     x = x // 2
+        #Divide x by 2
+        x = x // 2
 
      #End
      return result
